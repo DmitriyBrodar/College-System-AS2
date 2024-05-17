@@ -1,0 +1,6 @@
+Academic,2222222A,Rob Diesel ,Garry Rd,20/06/2000,097-1234567,2,10,5
+Student Part-Time,5555555S,Mark Twen,Little St,15/05/2001,024-1234567,10
+Clerical,6666666C,Viola,Dance St,15/09/2000,021-1234567,Teacher,2
+Part-Time Academic,4444444W,Ron Wick,Iron ST,15/07/2000,087-1234567,10,10,1
+Part-Time Academic,1111111D,Denis Collman,Main Rd,15/07/2000,021-1234567,20,10,0
+Part-Time Academic,7654321B,Bob Brown,Nord Ave,15/03/1982,083-1231231,10,10,1

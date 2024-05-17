@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1714270167 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\main.cpp
+	<iostream>
+	<string>
+	<memory>
+	<iomanip>
+	"Menu.h"
+	"StudentManager.h"
+	"EmployeeManager.h"
+	"Clerical.h"
+	"Academic.h"
+
+1714041767 c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\include\menu.h
+
+1714152328 c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\include\studentmanager.h
+	"Student.h"
+	<vector>
+	<string>
+
+1714042491 c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\include\student.h
+	"Person.h"
+	<regex>
+
+1714042444 c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\include\person.h
+	<string>
+	<iostream>
+	<regex>
+
+1714131754 c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\include\employeemanager.h
+	"Employee.h"
+	"Clerical.h"
+	"Academic.h"
+	"PartTimeAcademic.h"
+	"PartTimeStudentAcademic.h"
+	<vector>
+	<string>
+	<memory>
+
+1714042518 c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\include\employee.h
+	"Person.h"
+	<string>
+	<regex>
+
+1714042564 c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\include\clerical.h
+	"Employee.h"
+
+1714242881 c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\include\academic.h
+	"Employee.h"
+
+1714257712 c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\include\parttimeacademic.h
+	"Employee.h"
+	<string>
+
+1714042764 c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\include\parttimestudentacademic.h
+	"PartTimeAcademic.h"
+
+1714247915 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\src\academic.cpp
+	"Academic.h"
+	<iostream>
+
+1714248001 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\src\clerical.cpp
+	"Clerical.h"
+	<iostream>
+	<regex>
+
+1714247538 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\src\employee.cpp
+	"Employee.h"
+	<iostream>
+	<stdexcept>
+
+1714267730 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\src\employeemanager.cpp
+	"EmployeeManager.h"
+	"Clerical.h"
+	"Academic.h"
+	"PartTimeAcademic.h"
+	"PartTimeStudentAcademic.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<limits>
+
+1714148411 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\src\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1714257712 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\src\parttimeacademic.cpp
+	"PartTimeAcademic.h"
+	<iostream>
+	<stdexcept>
+
+1714247746 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\src\parttimestudentacademic.cpp
+	"PartTimeStudentAcademic.h"
+	<iostream>
+
+1714247746 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\src\person.cpp
+	"Person.h"
+
+1714248373 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\src\student.cpp
+	"Student.h"
+	<iostream>
+	<regex>
+
+1714248467 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\my castaway\collegesystem\src\studentmanager.cpp
+	"StudentManager.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1714270167 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\main.cpp
+	<iostream>
+	<string>
+	<memory>
+	<iomanip>
+	"Menu.h"
+	"StudentManager.h"
+	"EmployeeManager.h"
+	"Clerical.h"
+	"Academic.h"
+
+1714041767 c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\include\menu.h
+
+1714152328 c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\include\studentmanager.h
+	"Student.h"
+	<vector>
+	<string>
+
+1714042491 c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\include\student.h
+	"Person.h"
+	<regex>
+
+1714042444 c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\include\person.h
+	<string>
+	<iostream>
+	<regex>
+
+1714131754 c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\include\employeemanager.h
+	"Employee.h"
+	"Clerical.h"
+	"Academic.h"
+	"PartTimeAcademic.h"
+	"PartTimeStudentAcademic.h"
+	<vector>
+	<string>
+	<memory>
+
+1714042518 c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\include\employee.h
+	"Person.h"
+	<string>
+	<regex>
+
+1714042564 c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\include\clerical.h
+	"Employee.h"
+
+1714242881 c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\include\academic.h
+	"Employee.h"
+
+1714257712 c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\include\parttimeacademic.h
+	"Employee.h"
+	<string>
+
+1714042764 c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\include\parttimestudentacademic.h
+	"PartTimeAcademic.h"
+
+1714270368 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\src\academic.cpp
+	"Academic.h"
+	<iostream>
+
+1714270347 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\src\clerical.cpp
+	"Clerical.h"
+	<iostream>
+	<regex>
+
+1714247538 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\src\employee.cpp
+	"Employee.h"
+	<iostream>
+	<stdexcept>
+
+1714267730 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\src\employeemanager.cpp
+	"EmployeeManager.h"
+	"Clerical.h"
+	"Academic.h"
+	"PartTimeAcademic.h"
+	"PartTimeStudentAcademic.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<limits>
+
+1714148411 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\src\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1714270378 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\src\parttimeacademic.cpp
+	"PartTimeAcademic.h"
+	<iostream>
+	<stdexcept>
+
+1714270380 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\src\parttimestudentacademic.cpp
+	"PartTimeStudentAcademic.h"
+	<iostream>
+
+1714247746 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\src\person.cpp
+	"Person.h"
+
+1714248373 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\src\student.cpp
+	"Student.h"
+	<iostream>
+	<regex>
+
+1714248467 source:c:\users\user\onedrive - cork college of commerce\desktop\c++\assignment 2\collegesystem\src\studentmanager.cpp
+	"StudentManager.h"
+	<fstream>
+	<iostream>
+	<sstream>
+

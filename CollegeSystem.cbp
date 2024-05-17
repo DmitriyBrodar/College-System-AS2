@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CollegeSystem" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CollegeSystem" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CollegeSystem" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="employees.txt" />
+		<Unit filename="include/Academic.h" />
+		<Unit filename="include/Clerical.h" />
+		<Unit filename="include/Employee.h" />
+		<Unit filename="include/EmployeeManager.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="include/PartTimeAcademic.h" />
+		<Unit filename="include/PartTimeStudentAcademic.h" />
+		<Unit filename="include/Person.h" />
+		<Unit filename="include/Student.h" />
+		<Unit filename="include/StudentManager.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Academic.cpp" />
+		<Unit filename="src/Clerical.cpp" />
+		<Unit filename="src/Employee.cpp" />
+		<Unit filename="src/EmployeeManager.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Unit filename="src/PartTimeAcademic.cpp" />
+		<Unit filename="src/PartTimeStudentAcademic.cpp" />
+		<Unit filename="src/Person.cpp" />
+		<Unit filename="src/Student.cpp" />
+		<Unit filename="src/StudentManager.cpp" />
+		<Unit filename="students.txt" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
